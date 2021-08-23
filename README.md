@@ -1,31 +1,16 @@
-<style>
-  img {
-    display: block;
-    margin: 0 auto;
-    max-width: 450px;
-    width: 100%;
-  }
+# ![dlwebdev](logo.png)
 
-  h1 {
-    text-align: center;
-    padding: 20px 0;
-    margin: 10px 0;
-    border-top: 2px solid;
-    border-bottom: 2px solid;
-  }
+## Hi there! 👋
+### I'm Dominik, self-taught programmer who is interesing with [JAMSTACK!](https://jamstack.org/)
 
-  a {
-    color: #FFCA2E;
-    text-decoration: underline;
-  }
+---
 
+### Skills and experience:
+- ⚛️ React (gatsbyjs.com)
+- 💻 HTML, CSS, JS
+- ✨ Styled-components
+- 😵 HeadlessCMS's (sanity.io, datocms.com)
+- 💾 Databases (hasura.io, firebase.google.com)
 
+---
 
-
-</style>
-
-
-<body>
-<img src="logo.png" alt="drawing" />
-<h1>Hi! I'm Dominik, self-taught programmer who is interesting with <a href="https://jamstack.org/">JAMSTACK</a>!</h1>
-</body>
