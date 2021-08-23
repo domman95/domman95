@@ -1,1 +1,1 @@
-![dlwebdev logo](https://i.ibb.co/WFzY012/dlwebdev.jpg)
+<img src="https://i.ibb.co/WFzY012/dlwebdev.jpg" alt="drawing" width="600"/>
